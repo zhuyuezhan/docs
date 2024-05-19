@@ -1,6 +1,6 @@
 [原文](https://overreacted.io/how-are-function-components-different-from-classes/)
 
-# React函数组件与React类组件有何不同？
+### React函数组件与React类组件有何不同？
 
 长久以来，标准答案一直是类组件提供了更多功能（例如状态管理）。但是有了Hooks，这种说法已经不再正确了。
 
